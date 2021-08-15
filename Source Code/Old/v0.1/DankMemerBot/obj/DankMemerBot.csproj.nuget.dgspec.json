@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\usman\\Downloads\\DankMemerBot (1)\\DankMemerBot\\DankMemerBot.csproj": {}
+    "Z:\\Coding\\GitHub\\DankMemerBot\\Source Code\\Old\\v0.1\\DankMemerBot\\DankMemerBot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\usman\\Downloads\\DankMemerBot (1)\\DankMemerBot\\DankMemerBot.csproj": {
+    "Z:\\Coding\\GitHub\\DankMemerBot\\Source Code\\Old\\v0.1\\DankMemerBot\\DankMemerBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usman\\Downloads\\DankMemerBot (1)\\DankMemerBot\\DankMemerBot.csproj",
+        "projectUniqueName": "Z:\\Coding\\GitHub\\DankMemerBot\\Source Code\\Old\\v0.1\\DankMemerBot\\DankMemerBot.csproj",
         "projectName": "DankMemerBot",
-        "projectPath": "C:\\Users\\usman\\Downloads\\DankMemerBot (1)\\DankMemerBot\\DankMemerBot.csproj",
+        "projectPath": "Z:\\Coding\\GitHub\\DankMemerBot\\Source Code\\Old\\v0.1\\DankMemerBot\\DankMemerBot.csproj",
         "packagesPath": "C:\\Users\\usman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usman\\Downloads\\DankMemerBot (1)\\DankMemerBot\\obj\\",
+        "outputPath": "Z:\\Coding\\GitHub\\DankMemerBot\\Source Code\\Old\\v0.1\\DankMemerBot\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

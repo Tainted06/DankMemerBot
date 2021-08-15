@@ -1,0 +1,14 @@
+Z:\Coding\GitHub\DankMemerBot\Source Code\v2.0\bin\Debug\v2.0.exe.config
+Z:\Coding\GitHub\DankMemerBot\Source Code\v2.0\bin\Debug\v2.0.exe
+Z:\Coding\GitHub\DankMemerBot\Source Code\v2.0\bin\Debug\v2.0.pdb
+Z:\Coding\GitHub\DankMemerBot\Source Code\v2.0\bin\Debug\MetroFramework.Design.dll
+Z:\Coding\GitHub\DankMemerBot\Source Code\v2.0\bin\Debug\MetroFramework.dll
+Z:\Coding\GitHub\DankMemerBot\Source Code\v2.0\bin\Debug\MetroFramework.Fonts.dll
+Z:\Coding\GitHub\DankMemerBot\Source Code\v2.0\obj\Debug\v2.0.csproj.AssemblyReference.cache
+Z:\Coding\GitHub\DankMemerBot\Source Code\v2.0\obj\Debug\v2._0.Form1.resources
+Z:\Coding\GitHub\DankMemerBot\Source Code\v2.0\obj\Debug\v2._0.Properties.Resources.resources
+Z:\Coding\GitHub\DankMemerBot\Source Code\v2.0\obj\Debug\v2.0.csproj.GenerateResource.cache
+Z:\Coding\GitHub\DankMemerBot\Source Code\v2.0\obj\Debug\v2.0.csproj.CoreCompileInputs.cache
+Z:\Coding\GitHub\DankMemerBot\Source Code\v2.0\obj\Debug\v2.0.csproj.CopyComplete
+Z:\Coding\GitHub\DankMemerBot\Source Code\v2.0\obj\Debug\v2.0.exe
+Z:\Coding\GitHub\DankMemerBot\Source Code\v2.0\obj\Debug\v2.0.pdb

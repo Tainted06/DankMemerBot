@@ -79,14 +79,13 @@ namespace DankMemerBot
         private void button9_Click(object sender, EventArgs e)
         {
             //pls work info
-            MessageBox.Show("You need a job for this command, the command dosent acctually answer the question correctly, it dosent give an answer but it still gives the amount of money for getting it wrong and it increases the size of the bank.", "pls work",
-MessageBoxButtons.OK);
+            MessageBox.Show("You need a job for this command, the command dosent acctually answer the question correctly, it dosent give an answer but it still gives the amount of money for getting it wrong and it increases the size of the bank.", "pls work",MessageBoxButtons.OK);
         }
 
         private void button5_Click(object sender, EventArgs e)
         {
             //pls beg info
-            _ = MessageBox.Show("pls beg is a currency command which can give the user coins. The amount given can range from 50 coins to 300 coins. There is also a slight chance that items can be given.", "pls beg",
+            MessageBox.Show("pls beg is a currency command which can give the user coins. The amount given can range from 50 coins to 300 coins. There is also a slight chance that items can be given.", "pls beg",
             MessageBoxButtons.OK);
 
         }
@@ -94,22 +93,19 @@ MessageBoxButtons.OK);
         private void button6_Click(object sender, EventArgs e)
         {
             //pls fish info
-            _ = MessageBox.Show("This command is a virtual fishing game! You cast out your pole (which you can buy in the shop for ⏣ 20,000. ) and have a chance to catch a fish!", "pls fish",
-            MessageBoxButtons.OK);
+            MessageBox.Show("This command is a virtual fishing game! You cast out your pole (which you can buy in the shop for ⏣ 20,000. ) and have a chance to catch a fish!", "pls fish",MessageBoxButtons.OK);
         }
 
         private void button7_Click(object sender, EventArgs e)
         {
             //pls hunt info
-            _ = MessageBox.Show("Pls hunt is a command that gives items, these are the items, Skunk, Duck, Deer, Boar, Rabbit, Dragon. Note: The dragon can only be obtained in special events", "pls hunt",
-            MessageBoxButtons.OK);
+            MessageBox.Show("Pls hunt is a command that gives items, these are the items, Skunk, Duck, Deer, Boar, Rabbit, Dragon. Note: The dragon can only be obtained in special events", "pls hunt",MessageBoxButtons.OK);
         }
 
         private void button8_Click(object sender, EventArgs e)
         {
             //pls pm info
-            _ = MessageBox.Show("Pls postmeme is a command that allows the user to post a meme, they can choose between diffrent types of memes and the response of the meme will determine how many coins they will get.", "pls postmeme",
-            MessageBoxButtons.OK);
+            MessageBox.Show("Pls postmeme is a command that allows the user to post a meme, they can choose between diffrent types of memes and the response of the meme will determine how many coins they will get.", "pls postmeme",MessageBoxButtons.OK);
 
         }
 
