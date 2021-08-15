@@ -1,0 +1,35 @@
+C:\Users\usman\source\repos\DankMemerBot\DankMemerBot\bin\Debug\netcoreapp3.1\DankMemerBot.exe
+C:\Users\usman\source\repos\DankMemerBot\DankMemerBot\bin\Debug\netcoreapp3.1\DankMemerBot.deps.json
+C:\Users\usman\source\repos\DankMemerBot\DankMemerBot\bin\Debug\netcoreapp3.1\DankMemerBot.runtimeconfig.json
+C:\Users\usman\source\repos\DankMemerBot\DankMemerBot\bin\Debug\netcoreapp3.1\DankMemerBot.runtimeconfig.dev.json
+C:\Users\usman\source\repos\DankMemerBot\DankMemerBot\bin\Debug\netcoreapp3.1\DankMemerBot.dll
+C:\Users\usman\source\repos\DankMemerBot\DankMemerBot\bin\Debug\netcoreapp3.1\DankMemerBot.pdb
+C:\Users\usman\source\repos\DankMemerBot\DankMemerBot\obj\Debug\netcoreapp3.1\DankMemerBot.csprojAssemblyReference.cache
+C:\Users\usman\source\repos\DankMemerBot\DankMemerBot\obj\Debug\netcoreapp3.1\DankMemerBot.Form1.resources
+C:\Users\usman\source\repos\DankMemerBot\DankMemerBot\obj\Debug\netcoreapp3.1\DankMemerBot.csproj.GenerateResource.cache
+C:\Users\usman\source\repos\DankMemerBot\DankMemerBot\obj\Debug\netcoreapp3.1\DankMemerBot.AssemblyInfoInputs.cache
+C:\Users\usman\source\repos\DankMemerBot\DankMemerBot\obj\Debug\netcoreapp3.1\DankMemerBot.AssemblyInfo.cs
+C:\Users\usman\source\repos\DankMemerBot\DankMemerBot\obj\Debug\netcoreapp3.1\DankMemerBot.csproj.CoreCompileInputs.cache
+C:\Users\usman\source\repos\DankMemerBot\DankMemerBot\obj\Debug\netcoreapp3.1\DankMemerBot.dll
+C:\Users\usman\source\repos\DankMemerBot\DankMemerBot\obj\Debug\netcoreapp3.1\DankMemerBot.pdb
+C:\Users\usman\source\repos\DankMemerBot\DankMemerBot\obj\Debug\netcoreapp3.1\DankMemerBot.genruntimeconfig.cache
+C:\Users\usman\Desktop\Coding-Cracking Stuff\Projects\DankMemerBot\DankMemerBot\obj\Debug\netcoreapp3.1\DankMemerBot.csprojAssemblyReference.cache
+C:\Users\usman\Desktop\Coding-Cracking Stuff\Projects\DankMemerBot\DankMemerBot\obj\Debug\netcoreapp3.1\DankMemerBot.csproj.GenerateResource.cache
+C:\Users\usman\Desktop\Coding-Cracking Stuff\Projects\DankMemerBot\DankMemerBot\obj\Debug\netcoreapp3.1\DankMemerBot.AssemblyInfoInputs.cache
+C:\Users\usman\Desktop\Coding-Cracking Stuff\Projects\DankMemerBot\DankMemerBot\obj\Debug\netcoreapp3.1\DankMemerBot.AssemblyInfo.cs
+C:\Users\usman\Desktop\Coding-Cracking Stuff\Projects\DankMemerBot\DankMemerBot\obj\Debug\netcoreapp3.1\DankMemerBot.csproj.CoreCompileInputs.cache
+C:\Users\usman\Desktop\Coding-Cracking Stuff\Projects\DankMemerBot\DankMemerBot\obj\Debug\netcoreapp3.1\DankMemerBot.dll
+C:\Users\usman\Desktop\Coding-Cracking Stuff\Projects\DankMemerBot\DankMemerBot\obj\Debug\netcoreapp3.1\DankMemerBot.pdb
+C:\Users\usman\Desktop\Coding-Cracking Stuff\Projects\DankMemerBot\DankMemerBot\bin\Debug\netcoreapp3.1\DankMemerBot.exe
+C:\Users\usman\Desktop\Coding-Cracking Stuff\Projects\DankMemerBot\DankMemerBot\bin\Debug\netcoreapp3.1\DankMemerBot.deps.json
+C:\Users\usman\Desktop\Coding-Cracking Stuff\Projects\DankMemerBot\DankMemerBot\bin\Debug\netcoreapp3.1\DankMemerBot.runtimeconfig.json
+C:\Users\usman\Desktop\Coding-Cracking Stuff\Projects\DankMemerBot\DankMemerBot\bin\Debug\netcoreapp3.1\DankMemerBot.runtimeconfig.dev.json
+C:\Users\usman\Desktop\Coding-Cracking Stuff\Projects\DankMemerBot\DankMemerBot\bin\Debug\netcoreapp3.1\DankMemerBot.dll
+C:\Users\usman\Desktop\Coding-Cracking Stuff\Projects\DankMemerBot\DankMemerBot\bin\Debug\netcoreapp3.1\DankMemerBot.pdb
+C:\Users\usman\Desktop\Coding-Cracking Stuff\Projects\DankMemerBot\DankMemerBot\obj\Debug\netcoreapp3.1\DankMemerBot.genruntimeconfig.cache
+C:\Users\usman\Desktop\Coding-Cracking Stuff\Projects\DankMemerBot\DankMemerBot\obj\Debug\netcoreapp3.1\DankMemerBot.DankMemerSpammer.resources
+C:\Users\usman\Desktop\Coding-Cracking Stuff\Projects\DankMemerBot\DankMemerBot\obj\Debug\netcoreapp3.1\DankMemerBot.Properties.Resources.resources
+C:\Users\usman\Desktop\Coding-Cracking Stuff\Projects\DankMemerBot\DankMemerBot\bin\Debug\netcoreapp3.1\MetroFramework.dll
+C:\Users\usman\Desktop\Coding-Cracking Stuff\Projects\DankMemerBot\DankMemerBot\obj\Debug\netcoreapp3.1\DankMemerBot.csproj.CopyComplete
+C:\Users\usman\Desktop\Coding-Cracking Stuff\Projects\DankMemerBot\DankMemerBot\obj\Debug\netcoreapp3.1\DankMemerBot.Form2h2u.resources
+C:\Users\usman\Desktop\Coding-Cracking Stuff\Projects\DankMemerBot\DankMemerBot\obj\Debug\netcoreapp3.1\DankMemerBot.Form2info.resources
