@@ -158,5 +158,15 @@ namespace v2._0
         {
             FileStream fs = File.Create("STOP.STOP");
         }
+
+        private void metroButton7_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("cmd", "/C start" + " " + "https://github.com/Tainted06/DankMemerBot#how-to-use");
+        }
+
+        private void metroButton9_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("cmd", "/C start" + " " + "https://github.com/Tainted06/DankMemerBot#simple-dank-memer-auto-bot");
+        }
     }
 }

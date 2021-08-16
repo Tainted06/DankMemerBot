@@ -156,6 +156,7 @@ namespace v2._0
             this.metroButton7.TabIndex = 17;
             this.metroButton7.Text = "How to Use";
             this.metroButton7.UseSelectable = true;
+            this.metroButton7.Click += new System.EventHandler(this.metroButton7_Click);
             // 
             // metroButton9
             // 
@@ -165,6 +166,7 @@ namespace v2._0
             this.metroButton9.TabIndex = 18;
             this.metroButton9.Text = "Info";
             this.metroButton9.UseSelectable = true;
+            this.metroButton9.Click += new System.EventHandler(this.metroButton9_Click);
             // 
             // metroLink1
             // 
