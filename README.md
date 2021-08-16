@@ -11,11 +11,11 @@ This is a very simple dank memer auto bot, it just types in the commands for you
 1. Pick the commands you would like to use
 
 2. Click Start
-<br>
+<br></br>
 ![image](Assets/v2.0_PLzfxGP3iB.png)
 
 3. Click on the send message text field on discord
-<br>
+<br></br>
 ![image](Assets/chrome_4oIWLLWmw9.png)
 
 4. Done! The program should now automatically send commands
