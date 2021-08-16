@@ -40,12 +40,12 @@ namespace v2._0
             this.metroButton4 = new MetroFramework.Controls.MetroButton();
             this.metroButton5 = new MetroFramework.Controls.MetroButton();
             this.metroButton8 = new MetroFramework.Controls.MetroButton();
-            this.metroButton6 = new MetroFramework.Controls.MetroButton();
             this.metroButton7 = new MetroFramework.Controls.MetroButton();
             this.metroButton9 = new MetroFramework.Controls.MetroButton();
             this.metroLink1 = new MetroFramework.Controls.MetroLink();
             this.metroCheckBox1 = new MetroFramework.Controls.MetroCheckBox();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.metroButton6 = new MetroFramework.Controls.MetroButton();
             this.SuspendLayout();
             // 
             // metroCheckBox2
@@ -148,16 +148,6 @@ namespace v2._0
             this.metroButton8.UseSelectable = true;
             this.metroButton8.Click += new System.EventHandler(this.metroButton8_Click);
             // 
-            // metroButton6
-            // 
-            this.metroButton6.Location = new System.Drawing.Point(408, 105);
-            this.metroButton6.Name = "metroButton6";
-            this.metroButton6.Size = new System.Drawing.Size(162, 57);
-            this.metroButton6.TabIndex = 16;
-            this.metroButton6.Text = "Stop";
-            this.metroButton6.UseSelectable = true;
-            this.metroButton6.Click += new System.EventHandler(this.metroButton6_Click);
-            // 
             // metroButton7
             // 
             this.metroButton7.Location = new System.Drawing.Point(240, 63);
@@ -201,16 +191,26 @@ namespace v2._0
             // 
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
+            // metroButton6
+            // 
+            this.metroButton6.Location = new System.Drawing.Point(407, 105);
+            this.metroButton6.Name = "metroButton6";
+            this.metroButton6.Size = new System.Drawing.Size(162, 57);
+            this.metroButton6.TabIndex = 21;
+            this.metroButton6.Text = "Stop";
+            this.metroButton6.UseSelectable = true;
+            this.metroButton6.Click += new System.EventHandler(this.metroButton6_Click_1);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(592, 188);
+            this.Controls.Add(this.metroButton6);
             this.Controls.Add(this.metroCheckBox1);
             this.Controls.Add(this.metroLink1);
             this.Controls.Add(this.metroButton9);
             this.Controls.Add(this.metroButton7);
-            this.Controls.Add(this.metroButton6);
             this.Controls.Add(this.metroButton8);
             this.Controls.Add(this.metroButton5);
             this.Controls.Add(this.metroButton4);
@@ -240,12 +240,12 @@ namespace v2._0
         private MetroFramework.Controls.MetroButton metroButton4;
         private MetroFramework.Controls.MetroButton metroButton5;
         private MetroFramework.Controls.MetroButton metroButton8;
-        private MetroFramework.Controls.MetroButton metroButton6;
         private MetroFramework.Controls.MetroButton metroButton7;
         private MetroFramework.Controls.MetroButton metroButton9;
         private MetroFramework.Controls.MetroLink metroLink1;
         private MetroFramework.Controls.MetroCheckBox metroCheckBox1;
         private System.Windows.Forms.Timer timer1;
+        private MetroFramework.Controls.MetroButton metroButton6;
     }
 }
 

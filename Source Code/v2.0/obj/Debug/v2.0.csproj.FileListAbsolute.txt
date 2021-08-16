@@ -12,3 +12,4 @@ Z:\Coding\GitHub\DankMemerBot\Source Code\v2.0\obj\Debug\v2.0.csproj.CoreCompile
 Z:\Coding\GitHub\DankMemerBot\Source Code\v2.0\obj\Debug\v2.0.csproj.CopyComplete
 Z:\Coding\GitHub\DankMemerBot\Source Code\v2.0\obj\Debug\v2.0.exe
 Z:\Coding\GitHub\DankMemerBot\Source Code\v2.0\obj\Debug\v2.0.pdb
+Z:\Coding\GitHub\DankMemerBot\Source Code\v2.0\obj\Debug\v2._0.End.resources

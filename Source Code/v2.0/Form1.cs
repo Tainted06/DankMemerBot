@@ -15,7 +15,13 @@ namespace v2._0
     public partial class Form1 : MetroFramework.Forms.MetroForm
     {
         public Form1() { InitializeComponent(); }
-        private void Form1_Load(object sender, EventArgs e) { }
+        private void Form1_Load(object sender, EventArgs e) 
+        {
+            if (File.Exists("STOP.STOP"))
+            {
+                try { File.Delete("STOP.STOP"); } catch { }
+            }
+        }
         private void metroLink1_Click(object sender, EventArgs e) { System.Diagnostics.Process.Start("cmd", "/C start" + " " + "https://github.com/Tainted06/DankMemerBot"); }
         private void metroButton1_Click(object sender, EventArgs e) { MessageBox.Show("pls beg is a currency command which can give the user coins. The amount given can range from 50 coins to 300 coins. There is also a slight chance that items can be given.", "pls beg",MessageBoxButtons.OK); }
         private void metroButton2_Click(object sender, EventArgs e) { MessageBox.Show("This command is a virtual fishing game! You cast out your pole (which you can buy in the shop for ⏣ 20,000. ) and have a chance to catch a fish!", "pls fish", MessageBoxButtons.OK); }
@@ -25,65 +31,132 @@ namespace v2._0
        
         private void metroButton8_Click(object sender, EventArgs e)
         {
-            timer1.Start();
-            // Thread trd = new Thread(new ThreadStart(this.Bot));
-            // trd.IsBackground = true;
-            // trd.Start(); 
-        }
-
-        private void metroButton6_Click(object sender, EventArgs e)
-        {
-            timer1.Stop();
+            Thread trd = new Thread(new ThreadStart(this.Bot));
+            trd.IsBackground = false;
+            trd.Start();
+            Thread.Sleep(1500);
         }
 
         private void Bot ()
         {
-            
+            timer1.Start();
+            End f2 = new End();
+            f2.ShowDialog(); 
         }
 
         private void timer1_Tick(object sender, EventArgs e)
         {
             if (metroCheckBox1.Checked)
             {
-                SendKeys.SendWait("pls beg");
-                SendKeys.SendWait("{ENTER}");
+                SendKeys.Send("pls beg");
+                SendKeys.Send("{ENTER}");
                 Thread.Sleep(500);
             }
             else { }
             if (metroCheckBox2.Checked)
             {
-                SendKeys.SendWait("pls fish");
-                SendKeys.SendWait("{ENTER}");
+                SendKeys.Send("pls fish");
+                SendKeys.Send("{ENTER}");
                 Thread.Sleep(500);
             }
             else { }
             if (metroCheckBox3.Checked)
             {
-                SendKeys.SendWait("pls hunt");
-                SendKeys.SendWait("{ENTER}");
+                SendKeys.Send("pls hunt");
+                SendKeys.Send("{ENTER}");
                 Thread.Sleep(500);
             }
             else { }
             if (metroCheckBox4.Checked)
             {
-                SendKeys.SendWait("pls pm");
-                SendKeys.SendWait("{ENTER}");
+                SendKeys.Send("pls pm");
+                SendKeys.Send("{ENTER}");
                 Thread.Sleep(3000);
-                SendKeys.SendWait("f");
-                SendKeys.SendWait("{ENTER}");
+                SendKeys.Send("f");
+                SendKeys.Send("{ENTER}");
                 Thread.Sleep(500);
             }
             else { }
             if (metroCheckBox5.Checked)
             {
-                SendKeys.SendWait("pls work");
-                SendKeys.SendWait("{ENTER}");
-                SendKeys.SendWait("i d k");
-                SendKeys.SendWait("{ENTER}");
+                SendKeys.Send("pls work");
+                SendKeys.Send("{ENTER}");
+                SendKeys.Send("i d k");
+                SendKeys.Send("{ENTER}");
                 Thread.Sleep(500);
             }
             else { }
-            Thread.Sleep(57000);
+            if (File.Exists("STOP.STOP")) {
+                ((System.Windows.Forms.Timer)sender).Stop();
+                Thread.Sleep(1000);
+                try { File.Delete("STOP.STOP"); } catch { } 
+            }
+            Thread.Sleep(5000);
+            if (File.Exists("STOP.STOP"))
+            {
+                ((System.Windows.Forms.Timer)sender).Stop();
+                try { File.Delete("STOP.STOP"); } catch { }
+            }
+            Thread.Sleep(5000);
+            if (File.Exists("STOP.STOP"))
+            {
+                ((System.Windows.Forms.Timer)sender).Stop();
+                try { File.Delete("STOP.STOP"); } catch { }
+            }
+            Thread.Sleep(5000);
+            if (File.Exists("STOP.STOP"))
+            {
+                ((System.Windows.Forms.Timer)sender).Stop();
+                try { File.Delete("STOP.STOP"); } catch { }
+            }
+            Thread.Sleep(5000);
+            if (File.Exists("STOP.STOP"))
+            {
+                ((System.Windows.Forms.Timer)sender).Stop();
+                try { File.Delete("STOP.STOP"); } catch { }
+            }
+            Thread.Sleep(5000);
+            if (File.Exists("STOP.STOP"))
+            {
+                ((System.Windows.Forms.Timer)sender).Stop();
+                try { File.Delete("STOP.STOP"); } catch { }
+            }
+            Thread.Sleep(5000);
+            if (File.Exists("STOP.STOP"))
+            {
+                ((System.Windows.Forms.Timer)sender).Stop();
+                try { File.Delete("STOP.STOP"); } catch { }
+            }
+            Thread.Sleep(5000);
+            if (File.Exists("STOP.STOP"))
+            {
+                ((System.Windows.Forms.Timer)sender).Stop();
+                try { File.Delete("STOP.STOP"); } catch { }
+            }
+            Thread.Sleep(5000);
+            if (File.Exists("STOP.STOP"))
+            {
+                ((System.Windows.Forms.Timer)sender).Stop();
+                try { File.Delete("STOP.STOP"); } catch { }
+            }
+            Thread.Sleep(5000);
+            if (File.Exists("STOP.STOP"))
+            {
+                ((System.Windows.Forms.Timer)sender).Stop();
+                try { File.Delete("STOP.STOP"); } catch { }
+            }
+            Thread.Sleep(5000);
+            if (File.Exists("STOP.STOP"))
+            {
+                ((System.Windows.Forms.Timer)sender).Stop();
+                try { File.Delete("STOP.STOP"); } catch { }
+            }
+            Thread.Sleep(5000);
+        }
+
+        private void metroButton6_Click_1(object sender, EventArgs e)
+        {
+            FileStream fs = File.Create("STOP.STOP");
         }
     }
 }
